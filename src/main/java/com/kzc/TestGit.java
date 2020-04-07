@@ -5,5 +5,6 @@ public class TestGit {
         System.out.println("testGit");
         System.out.println("c1");
         System.out.println("c2");
+        System.out.println("hah");
     }
 }
